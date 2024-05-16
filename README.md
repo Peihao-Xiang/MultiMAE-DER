@@ -45,7 +45,7 @@ General Multimodal Model vs. MultiMAE-DER. The uniqueness of our approach lies i
 
 ## Contact 
 
-If you have any questions, please feel free to contact me via [E-mail](pxian001@fiu.edu).
+If you have any questions, please feel free to reach me out at pxian001@fiu.edu.
 
 ## Acknowledgments
 This project is built upon [VideoMAE](https://github.com/innat/VideoMAE) and [MAE-DFER](https://github.com/sunlicai/MAE-DFER). Thanks for their great codebase.
