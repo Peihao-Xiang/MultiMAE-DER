@@ -22,6 +22,12 @@ Official TensorFlow implementation and pre-trained VideoMAE models for MultiMAE-
 
 General Multimodal Model vs. MultiMAE-DER. The uniqueness of our approach lies in the capability to extract features from cross-domain data using only a single encoder, eliminating the need for targeted feature extraction for different modalities.
 
+<p align="center">
+  <img src="images/Multimodal_Sequence_Fusion_Strategy.png" width=70%
+    class="center"><br>
+  Multimodal Sequence Fusion Strategies.
+</p>
+
 ## Implementation details
 
 <p align="center">
