@@ -4,7 +4,7 @@
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/multimae-der-multimodal-masked-autoencoder/video-emotion-recognition-on-crema-d)](https://paperswithcode.com/sota/video-emotion-recognition-on-crema-d?p=multimae-der-multimodal-masked-autoencoder)<br>
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/multimae-der-multimodal-masked-autoencoder/multimodal-emotion-recognition-on-iemocap)](https://paperswithcode.com/sota/multimodal-emotion-recognition-on-iemocap?p=multimae-der-multimodal-masked-autoencoder)<br>
 
-> [`Website`](https://hcps.fiu.edu/) | [`arXiv`](https://arxiv.org/abs/2404.18327) | [`BibTeX`](#citation) | ['IEEE'](10.1109/ICPRS62101.2024.10677820)<br>
+> [`Website`](https://hcps.fiu.edu/) | [`arXiv`](https://arxiv.org/abs/2404.18327) | [`BibTeX`](#citation) | [`IEEE`](https://ieeexplore.ieee.org/document/10677820)<br>
 > [Peihao Xiang](https://scholar.google.com/citations?user=k--3fM4AAAAJ&hl=zh-CN&oi=ao), [Chaohao Lin](https://scholar.google.com/citations?hl=zh-CN&user=V3l7dAEAAAAJ), [Kaida Wu](https://ieeexplore.ieee.org/author/167739911238744), and [Ou Bai](https://scholar.google.com/citations?hl=zh-CN&user=S0j4DOoAAAAJ)<br>
 > HCPS Laboratory, Department of Electrical and Computer Engineering, Florida International University<br>
 
