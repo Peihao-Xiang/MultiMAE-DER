@@ -73,4 +73,15 @@ If you find this repository helpful, please consider citing our work:
       archivePrefix={arXiv},
       primaryClass={cs.CV}
 }
+
+@INPROCEEDINGS{10677820,
+  author={Xiang, Peihao and Lin, Chaohao and Wu, Kaida and Bai, Ou},
+  booktitle={2024 14th International Conference on Pattern Recognition Systems (ICPRS)}, 
+  title={MultiMAE-DER: Multimodal Masked Autoencoder for Dynamic Emotion Recognition}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1-7},
+  keywords={Emotion recognition;Visualization;Correlation;Supervised learning;Semantics;Self-supervised learning;Transformers;Dynamic Emotion Recognition;Multimodal Model;Self-Supervised Learning;Video Masked Autoencoder;Vision Transformer},
+  doi={10.1109/ICPRS62101.2024.10677820}}
 ```
