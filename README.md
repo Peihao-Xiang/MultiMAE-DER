@@ -12,6 +12,8 @@
 
 Official TensorFlow implementation and pre-trained VideoMAE models for MultiMAE-DER: Multimodal Masked Autoencoder for Dynamic Emotion Recognition.
 
+Note: The .ipynb is just a simple example. In addition, the VideoMAE encoder model should be pre-trained using the MAE-DFER method, but this repository does not provide it.
+
 ## Overview
 
 This paper presents a novel approach to processing multimodal data for dynamic emotion recognition, named as the Multimodal Masked Autoencoder for Dynamic Emotion Recognition (MultiMAE-DER). The MultiMAE-DER leverages the closely correlated representation information within spatiotemporal sequences across visual and audio modalities. By utilizing a pre-trained masked autoencoder model, the MultiMAE-DER is accomplished through simple, straightforward finetuning. The performance of the MultiMAE-DER is enhanced by optimizing six fusion strategies for multimodal input sequences. These strategies address dynamic feature correlations within cross-domain data across spatial, temporal, and spatiotemporal sequences. In comparison to state-of-the-art multimodal supervised learning models for dynamic emotion recognition, MultiMAE-DER enhances the weighted average recall (WAR) by 4.41% on the RAVDESS dataset and by 2.06% on the CREMA-D. Furthermore, when compared with the state-of-the-art model of multimodal self-supervised learning, MultiMAE-DER achieves a 1.86% higher WAR on the IEMOCAP dataset.
