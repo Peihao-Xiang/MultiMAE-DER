@@ -6,7 +6,7 @@
 
 > [`Website`](https://hcps.fiu.edu/) | [![Arxiv link](https://img.shields.io/static/v1?label=arXiv&message=MultiMAE-DER&color=red&logo=arxiv)](https://arxiv.org/abs/2404.18327) | [`BibTeX`](#citation) |
 > [![IEEE](https://img.shields.io/badge/IEEE_ICPRS--24-MultiMAE--DER-red)]
-> [![ICPRS link](https://img.shields.io/badge/IEEE ICPRS--24-MultiMAE--DER-red)](https://ieeexplore.ieee.org/document/10677820)<br>
+> [![ICPRS link](https://img.shields.io/badge/IEEE_ICPRS--24-MultiMAE--DER-red)](https://ieeexplore.ieee.org/document/10677820)<br>
 > [Peihao Xiang](https://scholar.google.com/citations?user=k--3fM4AAAAJ&hl=zh-CN&oi=ao), [Chaohao Lin](https://scholar.google.com/citations?hl=zh-CN&user=V3l7dAEAAAAJ), [Kaida Wu](https://ieeexplore.ieee.org/author/167739911238744), and [Ou Bai](https://scholar.google.com/citations?hl=zh-CN&user=S0j4DOoAAAAJ)<br>
 > HCPS Laboratory, Department of Electrical and Computer Engineering, Florida International University<br>
 
