@@ -26,7 +26,7 @@ Fig. 1 General Multimodal Model vs. MultiMAE-DER. The uniqueness of our approach
 <p align="center">
   <img src="images/Multimodal_Sequence_Fusion_Strategy.png" width=70%
     class="center"><br>
-  Multimodal Sequence Fusion Strategies.
+  Fig. 2 Multimodal Sequence Fusion Strategies.
 </p>
 
 ## Implementation details
