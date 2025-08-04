@@ -21,7 +21,7 @@ This paper presents a novel approach to processing multimodal data for dynamic e
   Illustration of our MultiMAE-DER.
 </p>
 
-General Multimodal Model vs. MultiMAE-DER. The uniqueness of our approach lies in the capability to extract features from cross-domain data using only a single encoder, eliminating the need for targeted feature extraction for different modalities.
+Fig. 1 General Multimodal Model vs. MultiMAE-DER. The uniqueness of our approach lies in the capability to extract features from cross-domain data using only a single encoder, eliminating the need for targeted feature extraction for different modalities.
 
 <p align="center">
   <img src="images/Multimodal_Sequence_Fusion_Strategy.png" width=70%
