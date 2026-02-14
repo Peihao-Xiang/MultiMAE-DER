@@ -4,6 +4,7 @@
 > [Peihao Xiang](https://scholar.google.com/citations?user=k--3fM4AAAAJ&hl=zh-CN&oi=ao), [Chaohao Lin](https://scholar.google.com/citations?hl=zh-CN&user=V3l7dAEAAAAJ), [Kaida Wu](https://ieeexplore.ieee.org/author/167739911238744), and [Ou Bai](https://scholar.google.com/citations?hl=zh-CN&user=S0j4DOoAAAAJ)<br>
 > HCPS Laboratory, Department of Electrical and Computer Engineering, Florida International University<br>
 
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=Peihao-Xiang.MultiMAE-DER)
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Peihao-Xiang/MultiMAE-DER/blob/main/MultiMAE-DER_Fine-Tuning%20Code/MultiMAE_DER_FSLF.ipynb)
 [![Hugging Face Datasets](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Datasets-blue)](https://huggingface.co/datasets/NoahMartinezXiang/RAVDESS)
 
